@@ -1,6 +1,7 @@
 lsi: false
 safe: true
 source: https://github.com/Nomenteam/nomenteam.github.io
+theme: just-the-docs
 incremental: false
 highlighter: rouge
 gist:
